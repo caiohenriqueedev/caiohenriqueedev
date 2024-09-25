@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Caio Henrique and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Caio Henrique and I'm a ..., from Brazil </h2>
 
 ###
 
@@ -51,5 +51,8 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/caiohenriqueedev/count.svg?"  />
 </div>
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=caio_souzabr12&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ###
