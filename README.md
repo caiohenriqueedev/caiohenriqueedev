@@ -55,14 +55,6 @@
 
 ###
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/caiohenriqueedev/caiohenriqueedev/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/caiohenriqueedev/count.svg?"  />
 </div>
