@@ -1,7 +1,8 @@
 <h2 align="left">Hi 👋! My name is Caio Henrique and I'm a Web Developer from Brazil</h2>
 
 
-![Discord Activity](https://img.shields.io/discord/USER_ID?style=for-the-badge&logo=discord)
+![Discord Activity](https://img.shields.io/discord/273313820460711937?style=for-the-badge&logo=discord)
+
 
 ###
 
