@@ -2,7 +2,7 @@
 
 ###
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/273313820460711937)](https://discord.com/users/273313820460711937)
+[![Discord Presence](https://lanyard.cnrad.dev/api/273313820460711937?hideTimestamp=true)](https://discord.com/users/273313820460711937)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caiohenriqueedev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
