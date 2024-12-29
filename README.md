@@ -1,45 +1,5 @@
 <h2 align="left">Hi 👋! My name is Caio Henrique and I'm a Web Developer from Brazil</h2>
 
-import discord
-import requests
-
-# Token do bot do Discord
-client = discord.Client()
-
-@client.event
-async def on_ready():
-    print(f'Logged in as {client.user}')
-    
-    # Obter o status do jogo ou música do Discord
-    game = client.user.activity
-    status = "Nada jogando"
-    if game:
-        status = f"Jogando: {game.name}" if game.type == discord.ActivityType.playing else f"Ouvindo: {game.name}"
-
-    # Atualizar o README.md no GitHub
-    url = "https://api.github.com/repos/USUARIO/NOME-DO-REPOSITORIO/contents/README.md"
-    headers = {
-        "Authorization": "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"
-    }
-    
-    # Obter o conteúdo atual do README
-    response = requests.get(url, headers=headers)
-    content = response.json()
-    sha = content['sha']
-    
-    # Adicionar o status do Discord no README
-    new_readme = f"# Meu Projeto\n\nAtualmente: {status}\n\n"  # Inclui o status
-    
-    # Atualizar o README no GitHub
-    data = {
-        "message": "Atualizando o status do Discord",
-        "content": new_readme,
-        "sha": sha
-    }
-    requests.put(url, headers=headers, json=data)
-
-client.run("MTMyMzAzMzgwODYwOTYwNzcyMA.G_PaRM.cllv8OkxjI5OUlfzmQwBNO_cmJlZMS_CGa8QeI")
-
 ###
 
 <div align="center">
