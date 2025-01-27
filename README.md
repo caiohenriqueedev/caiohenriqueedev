@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! My name is Caio Henrique and I'm a Web Developer and SQL from Brazil
-STUDENT PYHTON AND PHP
-</h2>
+<h2 align="left">Hi 👋! My name is Caio Henrique and I'm a Web Developer and SQL from Brazil</h2>
+
+<p>STUDENT PYHTON AND PHP</p>
 
 ###
 
