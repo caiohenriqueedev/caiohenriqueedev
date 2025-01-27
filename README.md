@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Caio Henrique and I'm a Web Developer from Brazil</h2>
+<h2 align="left">Hi 👋! My name is Caio Henrique and I'm a Web Developer and SQL from Brazil
+STUDENT PYHTON AND PHP
+</h2>
 
 ###
 
