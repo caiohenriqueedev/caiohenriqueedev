@@ -5,10 +5,11 @@
 ###
 
 <p align="center">
-
-<a href="https://github.com/">[![Discord Presence](https://lanyard.cnrad.dev/api/273313820460711937??theme=light&bg=77dd77&)](https://discord.com/users/273313820460711937)</a>
-
+  <a href="https://discord.com/users/273313820460711937">
+    <img src="https://lanyard.cnrad.dev/api/273313820460711937?theme=light&bg=77dd77" alt="Discord Presence">
+  </a>
 </p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caiohenriqueedev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
