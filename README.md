@@ -6,7 +6,7 @@
 
 <p align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/273313820460711937??theme=light&bg=77dd77&)](https://discord.com/users/273313820460711937)
+<a href="https://github.com/">[![Discord Presence](https://lanyard.cnrad.dev/api/273313820460711937??theme=light&bg=77dd77&)](https://discord.com/users/273313820460711937)</a>
 
 </p>
 
