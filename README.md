@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Caio Henrique and I'm a Web Developer and SQL from Brazil</h2>
+<h1> Welcome to my profile </h1>
+<h1> Seja bem vindo ao meu perfil </h1>
+
+<h2 align="left">in English: Hi 👋! My name is Caio Henrique and I'm a Web Developer and SQL from Brazil.</h2>
+<h3 align="left">Em Português: OLÁ 👋! Meu nome é Caio e sou um Desenvolvedor Web e SQL do Brasil.</h3>
 
 <p>STUDENT PYHTON AND PHP</p>
 
