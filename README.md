@@ -83,7 +83,7 @@
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src=![image](https://github.com/user-attachments/assets/b9743433-1ec6-4f11-ab0f-b42db18e4525) alt="Spotify Profile">
+    <img src=<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=caio_souzabr12&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile" alt="Spotify Profile">
   </a>
 </p>
 
