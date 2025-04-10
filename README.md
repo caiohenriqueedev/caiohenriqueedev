@@ -4,7 +4,7 @@
 <h2 align="left">in English: Hi 👋! My name is Caio Henrique and I'm a Web Developer and SQL from Brazil.</h2>
 <h2 align="left">Em Português: OLÁ 👋! Meu nome é Caio e sou um Desenvolvedor Web e SQL do Brasil.</h2>
 
-<p>ATUALMENTE CURSANDO ADS 4/4, ando estudando JavaScript, Python, PHP e SQL.</p>
+<p> Tenho 20 anos, ATUALMENTE CURSANDO ADS (4/4), atualmente estudando JavaScript, Python, PHP e SQL e pretendo focar na Area Front End. </p>
 
 ###
 
@@ -26,6 +26,8 @@
 
 ###
 
+<div class="tecnologias">
+  <p> Tecnologias que estou estudando e que pretendo seguir/focar.</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
