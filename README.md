@@ -74,7 +74,7 @@
   <img src="https://profile-counter.glitch.me/caiohenriqueedev/count.svg?"  />
 </div>
 
-<div style="display: flex;">
+<div style=display: flex;>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=caio_souzabr12&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile">
