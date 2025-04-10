@@ -6,15 +6,6 @@
 
 <p> Tenho 20 anos, ATUALMENTE CURSANDO ADS (4/4), atualmente estudando JavaScript, Python, PHP e SQL e pretendo focar na Area Front End. </p>
 
-###
-
-<p align="center">
-  <a href="https://discord.com/users/273313820460711937">
-    <img src="https://lanyard.cnrad.dev/api/273313820460711937?theme=light&bg=77dd77" alt="Discord Presence">
-  </a>
-</p>
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caiohenriqueedev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiohenriqueedev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -27,7 +18,7 @@
 ###
 
 <div class="tecnologias">
-  <p> Tecnologias que estou estudando e que pretendo seguir/focar.</p>
+  <p><strong>Tecnologias que estou estudando e que pretendo seguir/focar.</strong></p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -86,6 +77,12 @@
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=caio_souzabr12&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://discord.com/users/273313820460711937">
+    <img src="https://lanyard.cnrad.dev/api/273313820460711937?theme=light&bg=77dd77" alt="Discord Presence">
   </a>
 </p>
 
