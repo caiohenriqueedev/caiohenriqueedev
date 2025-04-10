@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fpt%2F35yk&psig=AOvVaw25eG6rfcbEErYAxX2bGmYM&ust=1744405060368000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCND76bGtzowDFQAAAAAdAAAAABAn](https://i.gifer.com/35yk.gif)"/>
+<img align="right" height="150" src="https://i.gifer.com/35yk.gif"/>
 
 ###
 
