@@ -79,7 +79,6 @@
   <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=caio_souzabr12&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Profile">
   </a>
-</div>
 
   <div align="right">
   <a href="https://discord.com/users/273313820460711937" target="_blank">
