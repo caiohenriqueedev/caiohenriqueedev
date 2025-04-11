@@ -61,7 +61,7 @@
   </a>
 </div>
 
-<h2> CONFIRA MEU PORTIFÓLIO ABAIXO</h2>
+<h2> CONFIRA MEU PORTIFÓLIO ABAIXO:</h2>
 <p><a href="https://meu-portifoliocaiohenrique-js.vercel.app/" alt="meu portifolio"> PORTIFÓLIO </p>
 
 ###
