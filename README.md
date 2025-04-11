@@ -2,7 +2,7 @@
 <h1> Seja bem vindo ao meu perfil </h1>
 
 <h2 align="left">in English: Hi 👋! My name is Caio Henrique and I'm a Web Developer and SQL from Brazil.</h2>
-<h2 align="left">Em Português: OLÁ 👋! Meu nome é Caio e sou um Desenvolvedor Web e SQL do Brasil.</h2>
+<h2 align="left">Em Português: Olá 👋! Meu nome é Caio e sou um Desenvolvedor Web e SQL do Brasil.</h2>
 
 <p> Tenho 20 anos, ATUALMENTE CURSANDO ADS (4/4), atualmente estudando JavaScript, Python, PHP e SQL e pretendo focar na Area Front End. </p>
 
