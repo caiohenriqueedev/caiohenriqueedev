@@ -73,10 +73,9 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caiohenriqueedev/caiohenriqueedev/output/github-contribution-grid-snake.svg">
 </picture>
 
-###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/caiohenriqueedev/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/caiohenriqueedev/count.svg?"/>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
