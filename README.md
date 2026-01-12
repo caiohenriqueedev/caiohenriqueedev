@@ -84,10 +84,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
-<img
-  src="https://spotify-recently-played-readme.vercel.app/api?user=caio_souzabr12&count=5"
-  alt="Spotify Recently Played"
-/>
+<img  src="https://spotify-recently-played-readme.vercel.app/api?user=caio_souzabr12&count=5"  alt="Spotify Recently Played"/>
   </a>
 
   <a href="https://discord.com/users/273313820460711937" target="_blank">
