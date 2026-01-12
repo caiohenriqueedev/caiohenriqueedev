@@ -8,9 +8,18 @@
 
 <h3> Estatisticas do GitHub </h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiohenriqueedev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiohenriqueedev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=caiohenriqueedev&show_icons=true&theme=dracula"
+    height="150"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenriqueedev&layout=compact&theme=dracula"
+    height="150"
+    alt="Top Languages"
+  />
 </div>
+
 <a href="https://git.io/streak-stats">
    <img src="https://streak-stats.demolab.com?user=caiohenriqueedev" alt="GitHub Streak">
 </a>
