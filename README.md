@@ -82,10 +82,11 @@
   <img src="https://profile-counter.glitch.me/caiohenriqueedev/count.svg?"/>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
-<img  src="https://spotify-recently-played-readme.vercel.app/api?user=caio_souzabr12&count=5"  alt="Spotify Recently Played"/>
-  </a>
+<img
+  src="https://spotify-recently-played-readme.vercel.app/api?user=caio_souzabr12&count=5"
+  alt="Spotify Recently Played"
+/>
+
 
   <a href="https://discord.com/users/273313820460711937" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/273313820460711937?theme=light&bg=77dd77" alt="Discord Presence">
