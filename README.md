@@ -7,23 +7,7 @@
 <p> Tenho 21 anos, atualmente formado em ADS, atualmente estudando React, Python, PHP e SQL e pretendo focar na Area Front End. </p>
 
 <h3> Estatisticas do GitHub </h3>
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=caiohenriqueedev&show_icons=true&theme=dracula"
-    height="150"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohenriqueedev&layout=compact&theme=dracula"
-    height="150"
-    alt="Top Languages"
-  />
-</div>
-
-<a href="https://git.io/streak-stats">
-   <img src="https://streak-stats.demolab.com?user=caiohenriqueedev" alt="GitHub Streak">
-</a>
-
+[![caiohenriqueedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiohenriqueedev)](https://github.com/caiohenriqueedev/github-readme-stats)
 ###
 
 <img align="right" height="150" src="https://i.gifer.com/35yk.gif"/>
